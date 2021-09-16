@@ -1,23 +1,29 @@
-# TÍTULO DO PROJETO
+<!-- # TÍTULO DO PROJETO -->
+# UTI Processual
 
-`CURSO`
+<!-- `CURSO` -->
+`SISTEMAS PARA INTERNET`
 
-`DISCIPLINA`
+<!-- `DISCIPLINA` -->
+`PROJETO: APLICAÇÕES WEB`
 
-`SEMESTRE`
+<!-- `SEMESTRE` -->
+`1º SEMESTRE`
 
 Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Fernando Coelho Vieira
+* José William Firmino Bezerra
+* Joao Pedro Gomes Ferreira
+* Angela Fernandes Fantoni
+* Marco Antônio de Oliveira Costa Junior
+* Victor Douglas do Nascimento
 
 ## Orientador
 
-* Nome completo do professor 1
+* Fabiano Costa Teixeira
 
 ## Instruções de utilização
 
