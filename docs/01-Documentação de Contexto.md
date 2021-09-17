@@ -25,12 +25,17 @@ Apresente também alguns (pelo menos 2) objetivos específicos dependendo de ond
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
+O sistema judiciário brasileiro é considerado por muitos como um sistema moroso, ou seja, uma estrutura que não consegue atender às demandas da justiça dentro do ritmo necessário. 
 
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
+Alto número de processos, quadro de funcionários e os índices de produtividade são alguns dos fatores que explicam a morosidade do nosso sistema. A sociedade se sente prejudicada pelas dificuldades do nosso processo legal.  
 
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+A duração de um processo submetido ao sistema judicial depende de inúmeros fatores, como o tipo de procedimento, a complexidade do caso, tempo gasto na coleta de provas, prazos para prática de atos processuais (como os recursos, por exemplo), desempenho dos profissionais na condução do caso, cultura institucional, entre outros 
+
+O excesso de atribuições aparece, por exemplo, quando recai a um juiz ordenar diversas citações e intimações de testemunhas, realizar diversos despachos em um mesmo processo, assinar grande quantidade de documentos nos procedimentos eleitorais, emitir ofícios, entre outros.  
+
+Observamos este cenário e identificamos uma oportunidade de criar um sistema (aplicativo), que irá facilicar o acompanhamento dos prazos e visualização dos processos de forma dinâmica e com uso de cores, verde, amarelo e vermelho para sinalização de cada etapa do processo. 
+
+Ao enxergar o uso de um sistema/aplicativo que faça a gestão dos processos judiciais como uma solução para o Judiciário, os Tribunais de Justiça resolveram problemas com facilidade realizando a tramitação e a transparência de dados. Além de promover uma transformação digital. 
 
 ## Estado da Arte
 
