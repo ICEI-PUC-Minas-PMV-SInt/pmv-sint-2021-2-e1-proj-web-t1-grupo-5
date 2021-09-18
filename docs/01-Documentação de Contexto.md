@@ -1,7 +1,13 @@
 # Introdução
 A advocacia é uma das profissões mais antigas da sociedade, que teve sua origem a milhares de anos atrás, foi construída e moldada durante todos esses anos por várias culturas e povos diferentes até chegar ao século XXI, onde o advogado no Brasil é responsável pela garantia da justiça, da busca pelos direitos da sociedade, a Carta Magna em conjunto com a Ordem dos Advogados do Brasil (OAB). Hoje, os procedimentos do meio jurídico continuam evoluindo e se transformando gradativamente em vários aspectos, desde fatores isolados como a especialização de cada advogado no âmbito jurídico, até em aspectos abrangentes como a mudança e informatização das instituições jurídicas. Essa evolução é evidenciada no seguinte relato: 
-"O controle dos futuros processos já estava organizado, aguardando pacientemente a chegada das informações. Não, não eram sistemas informatizados, mas sim fichas – do tipo "literária" – nas quais eram reproduzidos os principais dados do processo e eram lançadas manualmente as breves informações sobre o andamento do feito. Os prazos não eram agendados em notebooks, tampouco em agendas eletrônicas, mas em fichas menores acondicionadas nos tradicionais, mas não menos eficientes escaninhos. Não só o aparelhamento e a evolução da tecnologia de informatização foram responsáveis pelas mudanças ocorridas. A sociedade mudou. O mercado mudou. A advocacia mudou. Mesmo que as próprias leis não tenham mudado tanto."  
-- Francisco José Zampol, mestre em Direito pela Universidade Metropolitana de Santos 
+
+<O controle dos futuros processos já estava organizado, aguardando pacientemente a chegada das informações. Não, não eram sistemas informatizados, mas sim fichas – do tipo "literária" – nas quais eram reproduzidos os principais dados do processo e eram lançadas manualmente as breves informações sobre o andamento do feito. Os prazos não eram agendados em notebooks, tampouco em agendas eletrônicas, mas em fichas menores acondicionadas nos tradicionais, mas não menos eficientes escaninhos. Não só o aparelhamento e a evolução da tecnologia de informatização foram responsáveis pelas mudanças ocorridas. A sociedade mudou. O mercado mudou. A advocacia mudou. Mesmo que as próprias leis não tenham mudado tanto.
+>
+>Francisco José Zampol, mestre em Direito pela Universidade Metropolitana de Santos 
+
+>Preservar o conhecimento é fácil. Transferir conhecimento também é fácil. Mas fazer novos conhecimentos não é fácil nem lucrativo a curto prazo. A pesquisa fundamental se mostra lucrativa no longo prazo e, o mais importante, é uma força que enriquece a cultura de qualquer sociedade com razão e verdade básica. 
+>
+>Ahmed Zewali, vencedor do Prêmio Nobel de Química (1999).
 
 ## Problema
 O sistema judiciário brasileiro é considerado por muitos como um sistema moroso, ou seja, uma estrutura que não consegue atender às demandas da justiça dentro do ritmo necessário. 
