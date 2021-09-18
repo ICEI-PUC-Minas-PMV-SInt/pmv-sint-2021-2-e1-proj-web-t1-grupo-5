@@ -9,9 +9,10 @@ Alto número de processos, quadro de funcionários e os índices de produtividad
 
 ## Objetivos
 Desenvolver um sistema para a 2ª Vara Criminal da Comarca de Poços de Caldas, onde seja possível controlar processos judiciais, com alertas coloridos e prazos de respostas das partes envolvidas.
-
 Identificar os tipos de processos judiciais e suas categorias.
+
 Verificar a quantidade de processos abertos que precisam de respostas.
+
 Analisar os casos que precisam de preferencia (réu preso)
 
 ## Justificativa
