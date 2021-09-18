@@ -21,6 +21,7 @@ Analisar os casos que precisam de preferencia (réu preso)
 ## Justificativa
 A duração de um processo submetido ao sistema judicial depende de inúmeros fatores, como o tipo de procedimento, a complexidade do caso, tempo gasto na coleta de provas, prazos para prática de atos processuais (como os recursos, por exemplo), desempenho dos profissionais na condução do caso, cultura institucional, entre outros.
 O excesso de atribuições aparece, por exemplo, quando recai a um juiz ordenar diversas citações e intimações de testemunhas, realizar diversos despachos em um mesmo processo, assinar grande quantidade de documentos nos procedimentos eleitorais, emitir ofícios, entre outros.  
+
 Observamos este cenário e identificamos uma oportunidade de criar um sistema (aplicativo), que irá facilicar o acompanhamento dos prazos e visualização dos processos de forma dinâmica e com uso de cores, verde, amarelo e vermelho para sinalização de cada etapa do processo. 
 Ao enxergar o uso de um sistema/aplicativo que faça a gestão dos processos judiciais como uma solução para o Judiciário, os Tribunais de Justiça resolveram problemas com facilidade realizando a tramitação e a transparência de dados. Além de promover uma transformação digital. 
 
