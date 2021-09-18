@@ -1,5 +1,7 @@
 # Introdução
-A advocacia é uma das profissões mais antigas da sociedade, que teve sua origem a milhares de anos atrás, foi construída e moldada durante todos esses anos por várias culturas e povos diferentes até chegar ao século XXI, onde o advogado no Brasil é responsável pela garantia da justiça, da busca pelos direitos da sociedade, a Carta Magna em conjunto com a Ordem dos Advogados do Brasil (OAB). Hoje, os procedimentos do meio jurídico continuam evoluindo e se transformando gradativamente em vários aspectos, desde fatores isolados como a especialização de cada advogado no âmbito jurídico, até em aspectos abrangentes como a mudança e informatização das instituições jurídicas. Essa evolução é evidenciada no seguinte relato: 
+A advocacia é uma das profissões mais antigas da sociedade, que teve sua origem a milhares de anos atrás, foi construída e moldada durante todos esses anos por várias culturas e povos diferentes até chegar ao século XXI, onde o advogado no Brasil é responsável pela garantia da justiça, da busca pelos direitos da sociedade, a Carta Magna em conjunto com a Ordem dos Advogados do Brasil (OAB). 
+
+Hoje, os procedimentos do meio jurídico continuam evoluindo e se transformando gradativamente em vários aspectos, desde fatores isolados como a especialização de cada advogado no âmbito jurídico, até em aspectos abrangentes como a mudança e informatização das instituições jurídicas. Essa evolução é evidenciada no seguinte relato: 
 
 >O controle dos futuros processos já estava organizado, aguardando pacientemente a chegada das informações. Não, não eram sistemas informatizados, mas sim fichas – do tipo "literária" – nas quais eram reproduzidos os principais dados do processo e eram lançadas manualmente as breves informações sobre o andamento do feito. Os prazos não eram agendados em notebooks, tampouco em agendas eletrônicas, mas em fichas menores acondicionadas nos tradicionais, mas não menos eficientes escaninhos. Não só o aparelhamento e a evolução da tecnologia de informatização foram responsáveis pelas mudanças ocorridas. A sociedade mudou. O mercado mudou. A advocacia mudou. Mesmo que as próprias leis não tenham mudado tanto. 
 >
@@ -7,6 +9,7 @@ A advocacia é uma das profissões mais antigas da sociedade, que teve sua orige
 
 ## Problema
 O sistema judiciário brasileiro é considerado por muitos como um sistema moroso, ou seja, uma estrutura que não consegue atender às demandas da justiça dentro do ritmo necessário. 
+
 Alto número de processos, quadro de funcionários e os índices de produtividade são alguns dos fatores que explicam a morosidade do nosso sistema. A sociedade se sente prejudicada pelas dificuldades do nosso processo legal.  
 
 ## Objetivos
@@ -27,8 +30,10 @@ Ao enxergar o uso de um sistema/aplicativo que faça a gestão dos processos jud
 
 ## Estado da Arte
 Através de nossas pesquisas identificamos a necessidade de desenvolvimento de um sistema que facilite o processo de acompanhamento jurídico tanto para advogados quanto para todos os demais envolvidos, incluindo os familiares e amigos do réu. 
-Desta forma, através de verificações, identificamos que poucos sistemas atuais possuem interface amigável a usuários leigos no assunto ao mesmo tempo que consegue fornecer os dados necessários para os profissionais da área. Muitas contém informações técnicas e poucas identificações gráficas que facilitem o processo de utilização da aplicação ou não possuem possibilidade de utilização por pessoas fora do ambiente jurídico.
-Nas pesquisas realizadas foi possível notar a ausência de Websites direcionados ao calendário de fenômenos astronômicos do projeto proposto, sendo observado uma quantidade expressiva de sites de notícia com objetivo de informar ao leitor quanto a uma ocorrência específica.
+
+Desta forma, através de verificações, identificamos que poucos sistemas atuais possuem interface amigável a usuários leigos no assunto ao mesmo tempo que consegue fornecer os dados necessários para os profissionais da área. 
+
+Muitas contém informações técnicas e poucas identificações gráficas que facilitem o processo de utilização da aplicação ou não possuem possibilidade de utilização por pessoas fora do ambiente jurídico.
 
 <table>
  <thead>
