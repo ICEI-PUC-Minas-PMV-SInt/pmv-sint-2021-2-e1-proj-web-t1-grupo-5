@@ -26,7 +26,7 @@ Lembre-se que você deve ser enumerar e descrever precisamente e personalizada t
 
 Com base na análise das personas foram identificadas as seguintes histórias de usuários:
 
-ADVOGADOS
+Advogados
 
 •	Como advogado, precisa registrar todos os resultados de audiências e atualizações dos casos para enviar ao fórum/comarca.
 
@@ -37,6 +37,7 @@ ADVOGADOS
 •	Como Advogado, quero encontrar palavras - chave para que possa identificar e manipular os processos que contêm as palavras-chave pesquisadas.
 
 •	Como Advogado, desejo imprimir uma visualização do documento para que eu possa revisar os processos sem a necessidade de executar a ferramenta.
+
 Réu
 
 •	Como réu, preciso consultar as atualizações do meu processo, para saber qual foi a decisão tomada pelo juiz.
@@ -60,8 +61,8 @@ Familiar/ Terceiro
 •	Como familiar/terceiro, preciso consultar as atualizações do processo, para saber qual foi a decisão tomada pelo juiz e informar ao parente(réu)
 
 Desenvolvedores 
-•	Como desenvolvedor p
-reciso manter o sistema em ordem e atualizado, para evitar perdas de informações e prazos de respostas por parte dos envolvido
+
+•	Como desenvolvedor preciso manter o sistema em ordem e atualizado, para evitar perdas de informações e prazos de respostas por parte dos envolvido
 
 Digitador ou similar 
 
