@@ -2,9 +2,9 @@
 
 <span style="color:red">Pré-requisitos: <a href="1-Documentação de Contexto.md"> Documentação de Contexto</a></span>
 
-Definição do problema e ideia de solução a partir da perspectiva do usuário. É composta pela definição do  diagrama de personas, histórias de usuários, requisitos funcionais e não funcionais além das restrições do projeto.
+Haja vista, que atualmente o usuário interessado em acompanhar  processos jurídicos se depara com a falta de informações realcionadas à estes. Dessa forma, o projeto busca desenvolver uma aplicação web que contenha dados quanto aos procedimentos dos processos e o  progresso desses 
 
-Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto
+Assim, neste documento serão abordadas as definições de persona, histórias de usuários, requisitos funcionais e não funcionais além das restrições do projeto utilizando técnicas de obtenção de dados, como questionários online, para compreender de forma específica nosso usuário e suas necessidades. 
 
 ## Personas
 
