@@ -91,7 +91,9 @@ todos os aspectos capturados nas Histórias de Usuário foram cobertos.
 ## Restrições
 
 01: Este sistema deverá ser acessado apenas por pessoas maiores de 18 anos.
+
 02: No sistema conterá uma página com acesso permitido apenas para juízes e advogados do Fórum.
+
 03: o sistema voltará ao início após um tempo de inatividade.
 
 
