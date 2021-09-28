@@ -8,19 +8,24 @@ Assim, neste documento serão abordadas as definições de persona, histórias d
 
 ## Personas
 
-Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
+1 - Advogado - Aquele que acompanha o caso. Precisa de informações e acessos as atualizações do processo.
+Exemplo: João Carlos é advogado e está acompanhando o processo de Luiz Mendes, que está sendo acusado de não pagar a pensão alimentícia dos filhos. Luiz Mendes não possui computador em casa, por isso João Carlos que acessa todas as informações e, posteriormente, entra em contato com Luiz pelo telefone e passa as atualizações.
+Para tanto, o advogado irá precisar acessar essas informações. Provavelmente por meio de um código de acesso que apenas o advogado tem acesso.
 
-Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
+2 – Réu – Aquele que é o mais interessado no andamento do processo. É a figura principal. Precisa ter o acesso para saber o andamento do seu processo.
+Exemplo: Luiz Mendes está sendo processado pela ex-esposa por não pagar pensão alimentícia para os filhos. Com isso, possui um código de acesso para acompanhar o andamento do seu processo, inclusive para saber quando e se precisará ir até o Fórum ou entregar alguma documentação complementar.
 
-> **Links Úteis**:
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Mapa de Stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
->
-Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes ideais que sua solução almeja.
+3 – Assessor/Juiz – Aqueles que precisam ter acesso integral ao processo para saber o andamento para fins judiciais, para a tomada de decisões bem como o histórico de todo o processo.
+Exemplo: Tadeu Farias é assessor do juiz Júlio. Com isso, precisa ter acesso a todo o histórico e atualizações do processo para deixa o juiz informado. Bem como analisar eventuais contratempos e saber exatamente em que momento deverá ter a interferência do juiz.
+
+4 – Familiar/ Terceiro – Aqueles que não possuem vínculo no processo, mas que de alguma forma precisam ter informações. Ocorre no caso que o réu esteja incapacitado de acompanhar o processo, e com isso, passar as informações para o réu.
+Exemplo: Maria é irmã de Luiz Mendes, que é réu do processo. Como Luiz Mendes se encontra aprisionado, Maria que acompanha todas as atualizações do processo.
+
+5 –Desenvolvedores – São aqueles que conseguem fazer melhorias nos sistemas para que ocorra a evolução e manutenção do mesmo.
+Exemplo: José é desenvolvedor de sistemas e presta suporte para o sistema UTI PROCESSUAL. Com isso, precisa ter acesso as funcionalidades para realizar as atividades.
+
+6 – Digitador ou similar – Aquele que incluir, altera e modifita os processos conforma as atualizações.Exemplo: Mariana é a pessoa responsável por incluir os processos e manter os mesmos atualizados.
+
 
 ## Histórias de Usuários
 
