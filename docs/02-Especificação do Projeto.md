@@ -24,34 +24,49 @@ Lembre-se que você deve ser enumerar e descrever precisamente e personalizada t
 
 ## Histórias de Usuários
 
-Com base na análise das personas forma identificadas as seguintes histórias de usuários:
+Com base na análise das personas foram identificadas as seguintes histórias de usuários:
 
 ADVOGADOS
-•	Como advogado, precisa registrar todos os resultados de audiências e atualizações dos casos para enviar ao fórum/comarca.
-•	Como Advogado, desejo salvar o documento em um arquivo para que os clientes possam abri-lo e consultar as atualizações.
-•	Como Advogado, desejo exibir na tela principal um relatório para que possa revisar todas as informações e requisitos do processo em uma única exibição.
-•	Como Advogado, quero encontrar palavras - chave para que possa identificar e manipular os processos que contêm as palavras-chave pesquisadas.
-•	Como Advogado, desejo imprimir uma visualização do documento para que eu possa revisar os processos sem a necessidade de executar a ferramenta.
 
+•	Como advogado, precisa registrar todos os resultados de audiências e atualizações dos casos para enviar ao fórum/comarca.
+
+•	Como Advogado, desejo salvar o documento em um arquivo para que os clientes possam abri-lo e consultar as atualizações.
+
+•	Como Advogado, desejo exibir na tela principal um relatório para que possa revisar todas as informações e requisitos do processo em uma única exibição.
+
+•	Como Advogado, quero encontrar palavras - chave para que possa identificar e manipular os processos que contêm as palavras-chave pesquisadas.
+
+•	Como Advogado, desejo imprimir uma visualização do documento para que eu possa revisar os processos sem a necessidade de executar a ferramenta.
 Réu
+
 •	Como réu, preciso consultar as atualizações do meu processo, para saber qual foi a decisão tomada pelo juiz.
 
 Juiz/Assessor
+
 •	Como Juiz, preciso receber as atualizações dos processos e informações dos advogados e delegados, para tomar a decisão correta e no tempo certo.
+
 •	Como assessor, desejo salvar o documento em um arquivo para criar pastas por processo.
+
 •	Como assessor, desejo anexar imagens e outros documentos aos processos para que eu possa ter maior controle das pendências.
+
 •	Como juiz, quero ordenar os processos  por um atributo personalizado escolhido para que eu possa exibir o processo classificando por prioridade, crime, tipo de sentença, prazo de resposta, etc.
+
 •	Como assessor, desejo imprimir uma visualização do documento para que eu possa revisar os requisitos sem a necessidade de executar a ferramenta.
+
 •	Como juiz/assessor, desejo gerar um relatório de rastreabilidade para que eu possa analisar os prazos e o impacto dos processos sem resposta.
 
 Familiar/ Terceiro 
+
 •	Como familiar/terceiro, preciso consultar as atualizações do processo, para saber qual foi a decisão tomada pelo juiz e informar ao parente(réu)
 
 Desenvolvedores 
-•	Como desenvolvedor preciso manter o sistema em ordem e atualizado, para evitar perdas de informações e prazos de respostas por parte dos envolvido
+•	Como desenvolvedor p
+reciso manter o sistema em ordem e atualizado, para evitar perdas de informações e prazos de respostas por parte dos envolvido
 
 Digitador ou similar 
+
 •	Como digitador preciso registrar as informações no sistema para enviar as atualizações dos processos para as pessoas responsáveis.
+
 •	Digitador , desejo salvar  automaticamente minhas alterações para não perdê-las se a ferramenta for encerrada inesperadamente antes de fechar um arquivo.
 
 ## Requisitos
