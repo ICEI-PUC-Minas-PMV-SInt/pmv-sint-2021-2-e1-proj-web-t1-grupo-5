@@ -96,18 +96,60 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
 
-- [Requisitos Funcionais
- (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
- correspondem a uma funcionalidade que deve estar presente na
-  plataforma (ex: cadastro de usuário).
-- [Requisitos Não Funcionais
-  (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
-  correspondem a uma característica técnica, seja de usabilidade,
-  desempenho, confiabilidade, segurança ou outro (ex: suporte a
-  dispositivos iOS e Android).
-Lembre-se que cada requisito deve corresponder à uma e somente uma
-característica alvo da sua solução. Além disso, certifique-se de que
-todos os aspectos capturados nas Histórias de Usuário foram cobertos.
+
+### Requisitos Funcionais
+
+|USUÁRIOS/CADASTRO   |   |           
+|------|-----------------------------------------|
+|ID    | Descrição do Requisito  
+|RF-01| O sistema permitirá que usuários sejam cadastrados, sendo classificados entre as categorias: Advogados, Juizes/Acessores, Digitadores e Reús (aqui está incluso a familia do réu e terceiros)
+|RF-02| Os usuários cadastrado na caterogia de Juíz, Advogado ou Acessor deverão informar: nome, login, senha, data de nascimento, endereço, e-mail, CEP, bairro, cidade, estado e CNA (Cadastro Nacional de Advogados). 
+|RF-03| Os demais usuários cadastrados não necesitam inforamar o CNA, as outras requisições continuam as mesmas, sendo elas: nome, login, senha, data de nascimento, endereço, e-mail, CEP, bairro, cidade e estado.
+|RF-04| O sistema permitirá que os usuários façam alterações em seus dados cadastrais.
+|RF-05| O Sistema também permitirá que os usuários: Advogados e Juízes/Acessores, criem novas contas de usuário sem necessitar o preenchimento do campo CNA. (assim se houver uma pessoa que exerça na plataforma a função de um advogado mas que não seja reconhecido pela OAB, ou situações afins, possa utilizar o sistema.
+
+|LOGIN   |   |           
+|------|-----------------------------------------|
+|ID        | Descrição do Requisito  
+|RF-06    | O sistema permitirá o acesso dos usuários através do login e senha.
+|RF-07    | Autenticação de usuários cadastrados no sistema, sendo esses: Advogados, Juizes/Acessores, Digitadores e Réus permitindo o acesso e realização de operações em diferente áreas do sistema.
+
+|OPERAÇÕES DO USUÁRIO/ADVOGADO  |   |           
+|------|-----------------------------------------|
+|ID        | Descrição do Requisito  
+|RF-08| O usuário advogado, poderá  registrar e gerenciar os documentos do sistema, fazendo alterações, atualizações de múltiplos processos.
+|RF-09| O usuário advogado, poderá registrar resultados e atualizações das audiências, podendo também compartilhar essas informações com o Forum/Comarca via sistema
+|RF-10| O usuário advogado, terá em uma tela, onde pode facilmente encontrar os dados e requisitos dos processos, em uma única exibição.
+|RF-11| O usuário advogado, poderá filtrar os diferentes processos por tipos, sendo os tipos palavras chaves para cada categoria de processo. 
+|RF-12| O usuário advogado, poderá solicitar uma impressão dos arquivos cadastrados no sistema.
+
+|OPERAÇÕES DO USUÁRIO/JUIZ/ACESSOR |   |           
+|------|-----------------------------------------|
+|RF-13| O usuário Juiz/Acessor, terá acesso a um dashboard contendo atualizações dos processos e informações dos advogados e delegados. Para a tomada de decisões com base em prioridades e data limite.
+|RF-14|  O usuário Juiz/Acessor, salvará e criará as pastas dos processos 
+|RF-14|  O usuário Juiz/Acessor, irá anexar imagens e outros documentos aos processos, para assim ter maios controle das pendências
+|RF-15|  O usuário Juiz/Acessor, poderá atribuir aos processos classificações de acordo com prioridade, crime, tipo de sentença, prazo de resposta, etc...
+|RF-16|  O usuário Juiz/Acessor, poderá solicitar uma impressão dos arquivos cadastrados no sistema.
+|RF-17|  O usuário Juiz/Acessor, irá gerar relatórios automáticos que informem prazos e os impactos dos processos sem respota.
+
+OPERAÇÕES DO USUÁRIO/RÉU/FAMILIA E TERCEIROS |   |           
+|------|-----------------------------------------|
+|RF-18|  O usuário Réu, Poderá visualizar as informações e possíveis atualizações dos processos atrelados a este usuário.
+
+OPERAÇÕES DO USUÁRIO/DESENVOLVEDOR |   |           
+|------|-----------------------------------------|
+|RF-19| O usuário Desenvolvedor, Terá acesso à todas às operações já mencionada, com a finalidade de manter o sistema em ordem
+
+### Requisitos não Funcionais
+
+OPERAÇÕES DO USUÁRIO/RÉU/FAMILIAR E TERCEIROS |   |           
+|------|-----------------------------------------|
+|RNF-01| A interface deve ser agradável e de fácil utilização
+|RNF-02| As alterações feitas no sistema deverão serem salvas automaticamente
+|RNF-03| O aplicativo deve consumir poucos recursos do navegador
+|RNF-04| O sistema deve ser responsivo para uso em smartphones
+
+
 
 ## Restrições
 
