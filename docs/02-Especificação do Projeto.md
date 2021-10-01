@@ -139,7 +139,7 @@ OPERAÇÕES DO USUÁRIO/RÉU/FAMILIAR E TERCEIROS |   |
 
 02: No sistema conterá uma página com acesso permitido apenas para juízes e advogados do Fórum.
 
-03: o sistema voltará ao início após um tempo de inatividade.
+03: O sistema voltará ao início após um tempo de inatividade.
 
 04: Este sistema só poderá ser alterado por pessoas autorizadas.
 
