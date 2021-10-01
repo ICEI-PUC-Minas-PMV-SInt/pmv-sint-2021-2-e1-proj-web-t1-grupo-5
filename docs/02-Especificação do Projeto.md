@@ -141,6 +141,10 @@ OPERAÇÕES DO USUÁRIO/RÉU/FAMILIAR E TERCEIROS |   |
 
 03: o sistema voltará ao início após um tempo de inatividade.
 
+04: Este sistema só poderá ser alterado por pessoas autorizadas.
+
+05: A pagina inicial do sistema (Login) só aceitará o número do CPF sem pontos.
+
 
 
 > **Links Úteis**:
