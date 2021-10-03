@@ -2,9 +2,9 @@
 
 <span style="color:red">Pré-requisitos: <a href="1-Documentação de Contexto.md"> Documentação de Contexto</a></span>
 
-Haja vista, que atualmente o usuário interessado em acompanhar  processos jurídicos se depara com a falta de informações realcionadas à estes. Dessa forma, o projeto busca desenvolver uma aplicação web que contenha dados quanto aos procedimentos dos processos e o  progresso desses 
+Haja vista, que atualmente o usuário interessado em acompanhar processos jurídicos se depara com a falta de informações realcionadas à estes. Dessa forma, o projeto busca desenvolver uma aplicação web que contenha dados quanto aos procedimentos dos processos e o progresso desses
 
-Assim, neste documento serão abordadas as definições de persona, histórias de usuários, requisitos funcionais e não funcionais além das restrições do projeto utilizando técnicas de obtenção de dados, como questionários online, para compreender de forma específica nosso usuário e suas necessidades. 
+Assim, neste documento serão abordadas as definições de persona, histórias de usuários, requisitos funcionais e não funcionais além das restrições do projeto utilizando técnicas de obtenção de dados, como questionários online, para compreender de forma específica nosso usuário e suas necessidades.
 
 ## Personas
 
@@ -26,54 +26,53 @@ Exemplo: José é desenvolvedor de sistemas e presta suporte para o sistema UTI 
 
 6 – Digitador ou similar – Aquele que incluir, altera e modifita os processos conforma as atualizações.Exemplo: Mariana é a pessoa responsável por incluir os processos e manter os mesmos atualizados.
 
-
 ## Histórias de Usuários
 
 Com base na análise das personas foram identificadas as seguintes histórias de usuários:
 
 Advogados
 
-•	Como advogado, precisa registrar todos os resultados de audiências e atualizações dos casos para enviar ao fórum/comarca.
+• Como advogado, precisa registrar todos os resultados de audiências e atualizações dos casos para enviar ao fórum/comarca.
 
-•	Como Advogado, desejo salvar o documento em um arquivo para que os clientes possam abri-lo e consultar as atualizações.
+• Como Advogado, desejo salvar o documento em um arquivo para que os clientes possam abri-lo e consultar as atualizações.
 
-•	Como Advogado, desejo exibir na tela principal um relatório para que possa revisar todas as informações e requisitos do processo em uma única exibição.
+• Como Advogado, desejo exibir na tela principal um relatório para que possa revisar todas as informações e requisitos do processo em uma única exibição.
 
-•	Como Advogado, quero encontrar palavras - chave para que possa identificar e manipular os processos que contêm as palavras-chave pesquisadas.
+• Como Advogado, quero encontrar palavras - chave para que possa identificar e manipular os processos que contêm as palavras-chave pesquisadas.
 
-•	Como Advogado, desejo imprimir uma visualização do documento para que eu possa revisar os processos sem a necessidade de executar a ferramenta.
+• Como Advogado, desejo imprimir uma visualização do documento para que eu possa revisar os processos sem a necessidade de executar a ferramenta.
 
 Réu
 
-•	Como réu, preciso consultar as atualizações do meu processo, para saber qual foi a decisão tomada pelo juiz.
+• Como réu, preciso consultar as atualizações do meu processo, para saber qual foi a decisão tomada pelo juiz.
 
 Juiz/Assessor
 
-•	Como Juiz, preciso receber as atualizações dos processos e informações dos advogados e delegados, para tomar a decisão correta e no tempo certo.
+• Como Juiz, preciso receber as atualizações dos processos e informações dos advogados e delegados, para tomar a decisão correta e no tempo certo.
 
-•	Como assessor, desejo salvar o documento em um arquivo para criar pastas por processo.
+• Como assessor, desejo salvar o documento em um arquivo para criar pastas por processo.
 
-•	Como assessor, desejo anexar imagens e outros documentos aos processos para que eu possa ter maior controle das pendências.
+• Como assessor, desejo anexar imagens e outros documentos aos processos para que eu possa ter maior controle das pendências.
 
-•	Como juiz, quero ordenar os processos  por um atributo personalizado escolhido para que eu possa exibir o processo classificando por prioridade, crime, tipo de sentença, prazo de resposta, etc.
+• Como juiz, quero ordenar os processos por um atributo personalizado escolhido para que eu possa exibir o processo classificando por prioridade, crime, tipo de sentença, prazo de resposta, etc.
 
-•	Como assessor, desejo imprimir uma visualização do documento para que eu possa revisar os requisitos sem a necessidade de executar a ferramenta.
+• Como assessor, desejo imprimir uma visualização do documento para que eu possa revisar os requisitos sem a necessidade de executar a ferramenta.
 
-•	Como juiz/assessor, desejo gerar um relatório de rastreabilidade para que eu possa analisar os prazos e o impacto dos processos sem resposta.
+• Como juiz/assessor, desejo gerar um relatório de rastreabilidade para que eu possa analisar os prazos e o impacto dos processos sem resposta.
 
-Familiar/ Terceiro 
+Familiar/ Terceiro
 
-•	Como familiar/terceiro, preciso consultar as atualizações do processo, para saber qual foi a decisão tomada pelo juiz e informar ao parente(réu)
+• Como familiar/terceiro, preciso consultar as atualizações do processo, para saber qual foi a decisão tomada pelo juiz e informar ao parente(réu)
 
-Desenvolvedores 
+Desenvolvedores
 
-•	Como desenvolvedor preciso manter o sistema em ordem e atualizado, para evitar perdas de informações e prazos de respostas por parte dos envolvido
+• Como desenvolvedor preciso manter o sistema em ordem e atualizado, para evitar perdas de informações e prazos de respostas por parte dos envolvido
 
-Digitador ou similar 
+Digitador ou similar
 
-•	Como digitador preciso registrar as informações no sistema para enviar as atualizações dos processos para as pessoas responsáveis.
+• Como digitador preciso registrar as informações no sistema para enviar as atualizações dos processos para as pessoas responsáveis.
 
-•	Digitador , desejo salvar  automaticamente minhas alterações para não perdê-las se a ferramenta for encerrada inesperadamente antes de fechar um arquivo.
+• Digitador , desejo salvar automaticamente minhas alterações para não perdê-las se a ferramenta for encerrada inesperadamente antes de fechar um arquivo.
 
 ## Requisitos
 
@@ -81,57 +80,54 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 ### Requisitos Funcionais
 
-|USUÁRIOS/CADASTRO   |   |           
-|------|-----------------------------------------|
-|ID    | Descrição do Requisito  
-|RF-01| O sistema permitirá que usuários sejam cadastrados, sendo classificados entre as categorias: Advogados, Juizes/Acessores, Digitadores e Reús (aqui está incluso a familia do réu e terceiros)
-|RF-02| Os usuários cadastrado na caterogia de Juíz, Advogado ou Acessor deverão informar: nome, login, senha, data de nascimento, endereço, e-mail, CEP, bairro, cidade, estado e CNA (Cadastro Nacional de Advogados). 
-|RF-03| Os demais usuários cadastrados não necesitam inforamar o CNA, as outras requisições continuam as mesmas, sendo elas: nome, login, senha, data de nascimento, endereço, e-mail, CEP, bairro, cidade e estado.
-|RF-04| O sistema permitirá que os usuários façam alterações em seus dados cadastrais.
-|RF-05| O Sistema também permitirá que os usuários: Advogados e Juízes/Acessores, criem novas contas de usuário sem necessitar o preenchimento do campo CNA. (assim se houver uma pessoa que exerça na plataforma a função de um advogado mas que não seja reconhecido pela OAB, ou situações afins, possa utilizar o sistema.
+| USUÁRIOS/CADASTRO |                                                                                                                                                                                                                  |
+| ----------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ID                | Descrição do Requisito                                                                                                                                                                                           |
+| RF-01             | O sistema permitirá que usuários sejam cadastrados, sendo classificados entre as categorias: Advogados, Juizes/Acessores, Digitadores e Reús (aqui está incluso a familia do réu e terceiros)                    |
+| RF-02             | Os usuários cadastrado na caterogia de Juíz, Advogado ou Acessor deverão informar: nome, login, senha, data de nascimento, endereço, e-mail, CEP, bairro, cidade, estado e CNA (Cadastro Nacional de Advogados). |
+| RF-03             | Os demais usuários cadastrados não necesitam inforamar o CNA, as outras requisições continuam as mesmas, sendo elas: nome, login, senha, data de nascimento, endereço, e-mail, CEP, bairro, cidade e estado.     |
+| RF-04             | O sistema permitirá que os usuários façam alterações em seus dados cadastrais.                                                                                                                                   |
 
-|LOGIN   |   |           
-|------|-----------------------------------------|
-|ID        | Descrição do Requisito  
-|RF-06    | O sistema permitirá o acesso dos usuários através do login e senha.
-|RF-07    | Autenticação de usuários cadastrados no sistema, sendo esses: Advogados, Juizes/Acessores, Digitadores e Réus permitindo o acesso e realização de operações em diferente áreas do sistema.
+| LOGIN |                                                                                                                                                                                            |
+| ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| ID    | Descrição do Requisito                                                                                                                                                                     |
+| RF-05 | O sistema permitirá o acesso dos usuários através do login e senha.                                                                                                                        |
+| RF-06 | Autenticação de usuários cadastrados no sistema, sendo esses: Advogados, Juizes/Acessores, Digitadores e Réus permitindo o acesso e realização de operações em diferente áreas do sistema. |
 
-|OPERAÇÕES DO USUÁRIO/ADVOGADO  |   |           
-|------|-----------------------------------------|
-|ID        | Descrição do Requisito  
-|RF-08| O usuário advogado, poderá  registrar e gerenciar os documentos do sistema, fazendo alterações, atualizações de múltiplos processos.
-|RF-09| O usuário advogado, poderá registrar resultados e atualizações das audiências, podendo também compartilhar essas informações com o Forum/Comarca via sistema
-|RF-10| O usuário advogado, terá em uma tela, onde pode facilmente encontrar os dados e requisitos dos processos, em uma única exibição.
-|RF-11| O usuário advogado, poderá filtrar os diferentes processos por tipos, sendo os tipos palavras chaves para cada categoria de processo. 
-|RF-12| O usuário advogado, poderá solicitar uma impressão dos arquivos cadastrados no sistema.
+| OPERAÇÕES DO USUÁRIO/ADVOGADO |                                                                                                                                                              |
+| ----------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| ID                            | Descrição do Requisito                                                                                                                                       |
+| RF-07                         | O usuário advogado, poderá registrar e gerenciar os documentos do sistema, fazendo alterações, atualizações de múltiplos processos.                          |
+| RF-08                         | O usuário advogado, poderá registrar resultados e atualizações das audiências, podendo também compartilhar essas informações com o Forum/Comarca via sistema |
+| RF-09                         | O usuário advogado, terá em uma tela, onde pode facilmente encontrar os dados e requisitos dos processos, em uma única exibição.                             |
+| RF-10                         | O usuário advogado, poderá filtrar os diferentes processos por tipos, sendo os tipos palavras chaves para cada categoria de processo.                        |
+| RF-11                         | O usuário advogado, poderá solicitar uma impressão dos arquivos cadastrados no sistema.                                                                      |
 
-|OPERAÇÕES DO USUÁRIO/JUIZ/ACESSOR |   |           
-|------|-----------------------------------------|
-|RF-13| O usuário Juiz/Acessor, terá acesso a um dashboard contendo atualizações dos processos e informações dos advogados e delegados. Para a tomada de decisões com base em prioridades e data limite.
-|RF-14|  O usuário Juiz/Acessor, salvará e criará as pastas dos processos 
-|RF-14|  O usuário Juiz/Acessor, irá anexar imagens e outros documentos aos processos, para assim ter maios controle das pendências
-|RF-15|  O usuário Juiz/Acessor, poderá atribuir aos processos classificações de acordo com prioridade, crime, tipo de sentença, prazo de resposta, etc...
-|RF-16|  O usuário Juiz/Acessor, poderá solicitar uma impressão dos arquivos cadastrados no sistema.
-|RF-17|  O usuário Juiz/Acessor, irá gerar relatórios automáticos que informem prazos e os impactos dos processos sem respota.
+| OPERAÇÕES DO USUÁRIO/JUIZ/ACESSOR |                                                                                                                                                                                                  |
+| --------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| RF-12                             | O usuário Juiz/Acessor, terá acesso a um dashboard contendo atualizações dos processos e informações dos advogados e delegados. Para a tomada de decisões com base em prioridades e data limite. |
+| RF-13                             | O usuário Juiz/Acessor, salvará e criará as pastas dos processos                                                                                                                                 |
+| RF-14                             | O usuário Juiz/Acessor, irá anexar imagens e outros documentos aos processos, para assim ter maios controle das pendências                                                                       |
+| RF-15                             | O usuário Juiz/Acessor, poderá atribuir aos processos classificações de acordo com prioridade, crime, tipo de sentença, prazo de resposta, etc...                                                |
+| RF-16                             | O usuário Juiz/Acessor, poderá solicitar uma impressão dos arquivos cadastrados no sistema.                                                                                                      |
+| RF-17                             | O usuário Juiz/Acessor, irá gerar relatórios automáticos que informem prazos e os impactos dos processos sem respota.                                                                            |
 
-OPERAÇÕES DO USUÁRIO/RÉU/FAMILIA E TERCEIROS |   |           
-|------|-----------------------------------------|
-|RF-18|  O usuário Réu, Poderá visualizar as informações e possíveis atualizações dos processos atrelados a este usuário.
+| OPERAÇÕES DO USUÁRIO/RÉU/FAMILIA E TERCEIROS |                                                                                                                  |
+| -------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
+| RF-18                                        | O usuário Réu, Poderá visualizar as informações e possíveis atualizações dos processos atrelados a este usuário. |
 
-OPERAÇÕES DO USUÁRIO/DESENVOLVEDOR |   |           
-|------|-----------------------------------------|
-|RF-19| O usuário Desenvolvedor, Terá acesso à todas às operações já mencionada, com a finalidade de manter o sistema em ordem
+| OPERAÇÕES DO USUÁRIO/DESENVOLVEDOR |                                                                                                                        |
+| ---------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
+| RF-19                              | O usuário Desenvolvedor, Terá acesso à todas às operações já mencionada, com a finalidade de manter o sistema em ordem |
 
 ### Requisitos não Funcionais
 
-OPERAÇÕES DO USUÁRIO/RÉU/FAMILIAR E TERCEIROS |   |           
-|------|-----------------------------------------|
-|RNF-01| A interface deve ser agradável e de fácil utilização
-|RNF-02| As alterações feitas no sistema deverão serem salvas automaticamente
-|RNF-03| O aplicativo deve consumir poucos recursos do navegador
-|RNF-04| O sistema deve ser responsivo para uso em smartphones
-
-
+| OPERAÇÕES DO USUÁRIO/RÉU/FAMILIAR E TERCEIROS |                                                                      |
+| --------------------------------------------- | -------------------------------------------------------------------- |
+| RNF-01                                        | A interface deve ser agradável e de fácil utilização                 |
+| RNF-02                                        | As alterações feitas no sistema deverão serem salvas automaticamente |
+| RNF-03                                        | O aplicativo deve consumir poucos recursos do navegador              |
+| RNF-04                                        | O sistema deve ser responsivo para uso em smartphones                |
 
 ## Restrições
 
@@ -145,8 +141,7 @@ OPERAÇÕES DO USUÁRIO/RÉU/FAMILIAR E TERCEIROS |   |
 
 05: A pagina inicial do sistema (Login) só aceitará o número do CPF sem pontos.
 
-
-
 > **Links Úteis**:
+>
 > - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
 > - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
