@@ -1,6 +1,5 @@
 # Especificações do Projeto
 
-<span style="color:red">Pré-requisitos: <a href="1-Documentação de Contexto.md"> Documentação de Contexto</a></span>
 
 Haja vista, que atualmente o usuário interessado em acompanhar processos jurídicos se depara com a falta de informações realcionadas à estes. Dessa forma, o projeto busca desenvolver uma aplicação web que contenha dados quanto aos procedimentos dos processos e o progresso desses
 
@@ -140,8 +139,3 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 04: Este sistema só poderá ser alterado por pessoas autorizadas.
 
 05: A pagina inicial do sistema (Login) só aceitará o número do CPF sem pontos.
-
-> **Links Úteis**:
->
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
