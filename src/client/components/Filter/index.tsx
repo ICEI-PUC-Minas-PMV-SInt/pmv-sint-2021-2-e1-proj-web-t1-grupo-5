@@ -16,20 +16,20 @@ export function Filter () {
                     </div>
                     <div className={styles.options} id={styles.darkGray}>
                         <div>
-                            <span>Art 54 §° único</span>
-                            <span>Inquérito Policial/Delegado</span>
+                            <span>Art 54 </span>
+                            <span>Delegado/Promotor</span>
                         </div>
                     </div>
                     <div className={styles.options} id={styles.darkGray}>
                         <div>
-                            <span>Art 55 §° único</span>
-                            <span>Inquérito Policial/Delegado</span>
+                            <span>Art 55 </span>
+                            <span>Defesa/Adogado</span>
                         </div>
                     </div>
                     <div className={styles.options} id={styles.darkGray}>
                         <div>
-                            <span>Art 55 §° único</span>
-                            <span>Inquérito Policial/Delegado</span>
+                            <span>Art 55 § 2°</span>
+                            <span>Audiência/Juiz</span>
                         </div>
                     </div>
                     <div className={styles.options} id={styles.darkGray}>
@@ -50,7 +50,7 @@ export function Filter () {
                 </div>
 
                 <div className={styles.optionsGroup}>
-                    <div className={styles.options} id={styles.yellow}>75 dias</div>
+                    <div className={styles.options} id={styles.yellow}>45 dias</div>
                     <div className={styles.options} id={styles.yellow}>15 dias</div>
                     <div className={styles.options} id={styles.yellow}>15 dias</div>
                     <div className={styles.options} id={styles.yellow}>45 dias</div>
@@ -58,7 +58,7 @@ export function Filter () {
                 </div>
 
                 <div className={styles.optionsGroup}>
-                    <div className={styles.options} id={styles.red}>+75 dias</div>
+                    <div className={styles.options} id={styles.red}>+45 dias</div>
                     <div className={styles.options} id={styles.red}>+15 dias</div>
                     <div className={styles.options} id={styles.red}>+15 dias</div>
                     <div className={styles.options} id={styles.red}>+45 dias</div>
