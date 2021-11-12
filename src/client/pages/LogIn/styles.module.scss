@@ -1,0 +1,77 @@
+.background {
+  height: 100vh;
+  width: 100vw;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.container {
+  height: 800px;
+  width: 1000px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.darkGray {
+  height: 100%;
+  width: 30%;
+  background-color: grey;
+}
+
+.lightGray {
+  height: 100%;
+  width: 70%;
+  background-color: lightgray;
+  padding-left: 4rem;
+
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  flex-direction: column;
+
+  h1 {
+    padding-left: 1rem;
+
+    font-family: sans-serif;
+    text-transform: uppercase;
+  }
+
+  div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+    input[type='text'],
+    input[type='password'] {
+      margin: 0.2rem;
+      height: 2rem;
+      width: 550px;
+
+      &::placeholder {
+        text-transform: uppercase;
+        padding-left: 1rem;
+      }
+    }
+  }
+}
+
+.links {
+  width: 100%;
+
+  a {
+    text-decoration: none;
+    text-transform: lowercase;
+  }
+
+  button {
+    margin: 1rem;
+
+    height: 30px;
+    width: 100px;
+  }
+}
