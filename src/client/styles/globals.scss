@@ -9,7 +9,13 @@ body {
   width: 100vw;
 }
 
-$filter-dark-gray: #312f2f;
-$filter-green: #53b804;
-$filter-yellow: #ffff00;
-$filter-red: #d22b2b;
+a,
+button {
+  text-decoration: none;
+  cursor: pointer;
+}
+
+// $filter-dark-gray: #312f2f;
+// $filter-green: #53b804;
+// $filter-yellow: #ffff00;
+// $filter-red: #d22b2b;

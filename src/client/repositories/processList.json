@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "assigneeType": "inquerito-delegado",
+    "processNumber": 10123091,
+    "status": 32
+  },
+  {
+    "id": 2,
+    "assigneeType": "delegado-promotor",
+    "processNumber": 98347184,
+    "status": 15
+  },
+  {
+    "id": 3,
+    "assigneeType": "defesa-advogado",
+    "processNumber": 12470124,
+    "status": 63
+  },
+  {
+    "id": 4,
+    "assigneeType": "audiencia-juiz",
+    "processNumber": 90238409,
+    "status": 15
+  },
+  {
+    "id": 5,
+    "assigneeType": "sentença-juiz",
+    "processNumber": 90238409,
+    "status": 87
+  },
+  {
+    "id": 6,
+    "assigneeType": "inquerito-delegado",
+    "processNumber": 10123095,
+    "status": 72
+  }
+]

@@ -40,7 +40,7 @@
     text-transform: uppercase;
   }
 
-  div {
+  & .inputs {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -49,29 +49,51 @@
     input[type='text'],
     input[type='password'] {
       margin: 0.2rem;
+      padding-left: 1rem;
       height: 2rem;
       width: 550px;
 
       &::placeholder {
         text-transform: uppercase;
-        padding-left: 1rem;
       }
     }
   }
-}
 
-.links {
-  width: 100%;
+  & .links {
+    width: 100%;
+    padding: 0.3rem;
 
-  a {
-    text-decoration: none;
-    text-transform: lowercase;
-  }
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
 
-  button {
-    margin: 1rem;
+    & .remember {
+      display: flex;
+      justify-content: center;
+      align-items: center;
 
-    height: 30px;
-    width: 100px;
+      label {
+        margin-left: 0.5rem;
+      }
+    }
+
+    & .logIn {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+
+      button {
+        height: 30px;
+        width: 13rem;
+
+        color: black;
+      }
+
+      a {
+        margin-top: 0.5rem;
+        text-transform: lowercase;
+      }
+    }
   }
 }
