@@ -1,19 +1,13 @@
 # Plano de Testes de Software
 
-<span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Especificação do Projeto</a></span>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>
+| CASO DE TESTE         | VALIDAÇÃO DE LOGIN                                                                                                                            |
+| --------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
+| Requisitos Associados | RF05 - Tela de login e funcionalidade de armazenamento dos dados no localstorage previamente implementada.                                         |
+| Objetivo do Teste     | Autenticar corretamente diversos usuários cadastrados para acessar a solução.                                                                 |
+| Passos                | 1)Selecionar uma das opções para cadastro: Advogados, Juizes/Acessores e Digitadores. 2)Acessar preenchendo corretamente os dados com usuario e                           senha preciamente cadastrados.|
+|Critérios de Êxito     | Os usuários precisam ser cadastrados e seus dados de login e senha salvos no local storage, novos usuários precisam ser cadastrados  dentre as opções disponiveis.|
+|
 
-Apresente os cenários de testes utilizados na realização dos testes da sua aplicação. Escolha cenários de testes que demonstrem os requisitos sendo satisfeitos.
-
-Enumere quais cenários de testes foram selecionados para teste. Neste tópico o grupo deve detalhar quais funcionalidades avaliadas, o grupo de usuários que foi escolhido para participar do teste e as ferramentas utilizadas.
  
-## Ferramentas de Testes (Opcional)
 
-Comente sobre as ferramentas de testes utilizadas.
- 
-> **Links Úteis**:
-> - [IBM - Criação e Geração de Planos de Teste](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
-> - [Práticas e Técnicas de Testes Ágeis](http://assiste.serpro.gov.br/serproagil/Apresenta/slides.pdf)
-> -  [Teste de Software: Conceitos e tipos de testes](https://blog.onedaytesting.com.br/teste-de-software/)
-> - [Criação e Geração de Planos de Teste de Software](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
-> - [Ferramentas de Test para Java Script](https://geekflare.com/javascript-unit-testing/)
-> - [UX Tools](https://uxdesign.cc/ux-user-research-and-user-testing-tools-2d339d379dc7)
+
