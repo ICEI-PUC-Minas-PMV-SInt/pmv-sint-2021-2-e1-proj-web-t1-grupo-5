@@ -21,6 +21,7 @@
 | Passos                | 1) Após logar como Juiz/Acessor verificar se é possivel fazer alterações nos processos.2) Verificar se é possivel fazer alterações no dashboard|
 | Critérios de Êxito    | Os usuários cadastrados como Juiz/Acessor devem conseguir fazer alteraçoes nos processos e no dashboard. |
 
-
+| CASO DE TESTE         | OPERAÇÕES DO USUÁRIO                                                                                                            |
+| --------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
 
 
