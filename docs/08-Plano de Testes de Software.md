@@ -14,6 +14,13 @@
 | Objetivo do Teste     | Verificar se é possivel filtrar os diferentes processos por tipos, sendo os tipos de palavras chaves para cada categoria de processo    |
 | Critérios de Êxito    | Os usuários cadastrados devem conseguir filtrar os diferentes processos por tipos, sendo os tipos de palavras chaves para cada categoria de processo |
 
- 
+| CASO DE TESTE         | OPERAÇÕES DO USUÁRIO   JUIZ/ACESSOR                                                                                                           |
+| --------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
+| Requisitos Associados | RF12 - O usuário Juiz/Acessor, terá acesso a um dashboard contendo atualizações dos processos e informações dos advogados e delegados. Para a tomada de decisões com base em prioridades e data limite. |
+| Objetivo do Teste     | Verificar a funcionalidade do dashboard, através de um login Juiz/Acessor.
+| Passos                | 1) Após logar como Juiz/Acessor verificar se é possivel fazer alterações nos processos.2) Verificar se é possivel fazer alterações no dashboard|
+| Critérios de Êxito    | Os usuários cadastrados como Juiz/Acessor devem conseguir fazer alteraçoes nos processos e no dashboard. |
+
+
 
 
