@@ -9,12 +9,18 @@ import { ProcessTable } from '../../components/ProcessTable';
 import { Process } from '../../model/Process';
 
 import styles from './styles.module.scss';
+import router from 'next/router';
 
 export default function Dashboard() {
+  const [user, setUser] = useState<string>();
   const [processes, setProcesses] = useState<Process[]>([]);
 
   // In memory data
   useEffect(() => {
+    const localUser = localStorage.getItem('user');
+    // if (!localUser) router.push('/');
+
+    setUser(localUser);
     setProcesses(processess);
   }, []);
 
