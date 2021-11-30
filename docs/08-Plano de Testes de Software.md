@@ -22,8 +22,9 @@
 | Critérios de Êxito    | Os usuários cadastrados como Juiz/Acessor devem conseguir fazer alteraçoes nos processos e no dashboard. |
 
 | CASO DE TESTE         | OPERAÇÕES DO USUÁRIO                                                                                                                          |
-| --------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
+| --------------------- |--------------------------------------------------------------------------------------------------------------------------------------------- |
 | Requisitos associados | RNF01 e RNF04 - A interface deve ser agradável e de fácil utilização, além de ser responsiva para uso em smartphones.                         |
 | Objetivo do Teste     | Testar a responsividade da aplicação em um smartphone. Ademais, verificar se a interface é de facil utilização.                               |
 | Passos                | 1)Ao utilizar um smartphone deve-se verificar se há ocorrência de problemas com a aplicação.2)Verificar a facil utilização da aplicação a partir da ótica de um terceiro.|
+| Critérios de Êxito | Ao utilizar um smartphone não deve haver nenhum erro responsivo. |
 
