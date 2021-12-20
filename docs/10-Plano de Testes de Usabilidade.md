@@ -1,6 +1,6 @@
 # Plano de Testes de Usabilidade
 
-| CASO DE TESTE         |  LOGIN                                                                                                                                        |
+| CASO DE TESTE         |  USUÁRIO LOGIN                                                                                                                                        |
 | --------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
 | Objetivo do Teste     | Autenticar corretamente o usuário através do CPF cadastrado.                                                                                  |
 | Critérios de Êxito    | Os usuário precisa se cadastrar e efetuar o login, ao fazer isso o usuário deve ser redirecionado  para o dashboard principal.               |
